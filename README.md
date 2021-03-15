@@ -1,2 +1,4 @@
 # cypwap-backend
- the backend system for cypwap 
+cypwap or "control your pc with a phone" is an application used to enable lightweight remote controlling of your pc (mainly mouse and keyboard) with your phone.
+
+This is the repository for the phone app. For the repository containing code run on the pc please see https://github.com/Devincf/cypwap-app/
